@@ -83,9 +83,9 @@ plt.ylabel("Amplitude")
 plt.tight_layout()
 plt.show()
 ```
+
  __Output__:
  <img width="1572" height="1198" alt="image" src="https://github.com/user-attachments/assets/90bda770-0979-445c-a430-b63c60b125a9" />
-
 
  __Result__:
  ![WhatsApp Image 2025-11-26 at 18 44 35_f272cc17](https://github.com/user-attachments/assets/eda5fcc6-6748-4eed-b81d-24b76464041c)
